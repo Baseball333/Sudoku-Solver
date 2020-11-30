@@ -23,11 +23,16 @@ def solve(bo):
        row, col = find
    
    
+ def valid(bo, num, pos):
    
-   
-   
-   
-   
+      # Check row
+      for i in range(len(bo[0])):
+          if bo[pos[0]] [i] == num and pos[1] != i:
+               return False
+            
+     
+       
+    
    
    
    
