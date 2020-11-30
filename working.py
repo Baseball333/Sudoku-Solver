@@ -13,3 +13,40 @@ board = [
    [0, 4, 9, 2, 0, 6, 0, 0, 7],
 ]
 
+# Base case of recursion
+def solve(bo):
+   
+    find = find_empty(bo)
+    if not find:
+       return True
+    else:
+       row, col = find
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
