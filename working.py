@@ -71,9 +71,10 @@ def solve(bo):
         
        return None
       
-  
+  print_board(board)
+  solve(board)
+  print("------------")
+  print_board(board)
    
-   
-   
-   
+   # End of execution
    
