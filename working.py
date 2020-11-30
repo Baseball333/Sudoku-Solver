@@ -35,7 +35,10 @@ def solve(bo):
           if bo[i] [pos[1]] == num and(i, j) != pos:
               return False
       
-   
+      # Check box
+      box_x = pos[1] // 3
+      box_y = pos[0] // 3
+      
    
    
    
